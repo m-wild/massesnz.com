@@ -1,0 +1,18 @@
+/* ----- IMPORTS ----- */
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900);
+/* ----- ALL ELEMENTS ----- */
+html {
+  font-family: Roboto, sans-serif;
+}
+
+.section-main {
+  min-height: 100vh;
+  background: linear-gradient(to bottom, rgba(255, 20, 0, 0.5), rgba(147, 0, 255, 0.5)), url('https://dl.dropboxusercontent.com/u/942003/img/DSC01437.JPG');
+  text-align: center;
+}
+.section-main h1 {
+  color: #fff;
+  padding: auto;
+  padding-top: 200px;
+}
+
