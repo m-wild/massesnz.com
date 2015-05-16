@@ -1,5 +1,5 @@
 /* Globals ------------------------------------------------------------- */
-@import url(http://fonts.googleapis.com/css?family=Mr+Dafoe|Roboto);
+@import url(//fonts.googleapis.com/css?family=Mr+Dafoe|Roboto);
 
 html {
   font-family: Roboto, sans-serif;
@@ -12,7 +12,7 @@ a, a:hover, a:active, a:visited {
 /* main section -------------------------------------------------------- */
 .section-main {
   min-height: 100vh;
-  background: linear-gradient(to bottom, rgba(255, 20, 0, 0.6), rgba(147, 0, 255, 0.6)), url('https://dl.dropboxusercontent.com/u/942003/img/DSC01437.JPG');
+  background: linear-gradient(to bottom, rgba(255, 20, 0, 0.6), rgba(147, 0, 255, 0.6)), url('//dl.dropboxusercontent.com/u/942003/img/DSC01437.JPG');
   text-align: center;
   background-position: center;
   background-repeat: repeat;
