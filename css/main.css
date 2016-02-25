@@ -1,18 +1,16 @@
 /* Globals ------------------------------------------------------------- */
-@import url(//fonts.googleapis.com/css?family=Mr+Dafoe|Roboto);
-
 html {
-  font-family: Roboto, sans-serif;
+  font-family: Libre Baskerville, serif;
 }
 a, a:hover, a:active, a:visited {
-  color: #fff;
+  color: #888;
   text-decoration: none;
 }
 
 /* main section -------------------------------------------------------- */
 .section-main {
   min-height: 100vh;
-  background: linear-gradient(to bottom, rgba(255, 20, 0, 0.6), rgba(147, 0, 255, 0.6)), url('//dl.dropboxusercontent.com/u/942003/img/DSC01437.JPG');
+  background-image: url('//www.googledrive.com/host/0BwrPd5DtsuImSTVEYWxteVBNeGM/images/01-notitle_web.jpg');
   text-align: center;
   background-position: center;
   background-repeat: repeat;
@@ -23,11 +21,14 @@ a, a:hover, a:active, a:visited {
   color: #fff;
   padding: auto;
   padding-top: 10px;
-  font-family: Mr Dafoe;
-  font-size: 160pt;
+  font-family: Libre Baskerville;
+  font-size: 26pt;
+  letter-spacing: 50px;
+  padding-left: 50px;
   font-weight: 700;
-  text-shadow: 4px 4px #444;
   -webkit-transition: all .3s ease-in-out;
+  padding-bottom: 100px;
+  padding-top: 50px;
 }
 .section-main h1:hover {
   -webkit-transform: translate(0px,10px);
@@ -41,7 +42,7 @@ a, a:hover, a:active, a:visited {
 }
 .footer h5 {
   color: #000;
-  font-size: 18pt;
+  font-size: 12pt;
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -49,9 +50,7 @@ a, a:hover, a:active, a:visited {
   -webkit-transition: all .3s ease-in-out;
 }
 .footer h5 a:hover {
-  text-shadow: 0px 0px 4px #fff;
+  text-shadow: 0px 0px 3px #fff;
 }
 
 .break { padding-top: 60px; }
-
-
