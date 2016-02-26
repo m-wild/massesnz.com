@@ -10,7 +10,7 @@ a, a:hover, a:active, a:visited {
 /* main section -------------------------------------------------------- */
 .section-main {
   min-height: 100vh;
-  background-image: url('//www.googledrive.com/host/0BwrPd5DtsuImSTVEYWxteVBNeGM/images/01-notitle_web.jpg');
+  background-image: url('https://www.googledrive.com/host/0BwrPd5DtsuImSTVEYWxteVBNeGM/images/01-notitle_web.jpg');
   text-align: center;
   background-position: center;
   background-repeat: repeat;
